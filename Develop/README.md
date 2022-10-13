@@ -1,28 +1,28 @@
 
-    # asd
+    # README-generator
 
     MIT
 
     ### Description
-    asd
+    When you answer the questions, a README will be created.
 
     ### Table of Contents
 
     ### Installation
     ```
-    a
+    A
     ```
     ### Usage
-    a
+    This is very easy to use.
     MIT
 
     ### Contributing
-    a
+    NA
 
     ### Test
-    a
+    npm start
 
     ### Questions
     undefined
-    asd
+    ddangeles
   
